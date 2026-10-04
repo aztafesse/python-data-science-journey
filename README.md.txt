@@ -22,4 +22,4 @@ My structured learning path from Python basics to data science
 - VS Code
 
 # Author
-Aztafess (Abdel-Aziz)
+Aztafesse (Abdel-Aziz)
