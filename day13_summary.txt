@@ -1,0 +1,19 @@
+=== Student Performance Analysis ===
+
+Students: 500
+Subjects: Math, Science, English
+Missing scores: 42
+
+Overall Statistics:
+  Mean: 63.23
+  Std:  14.22
+  Min:  10.51
+  Max: 100.00
+
+Per-Subject Means:
+  Math:  66.00
+  Science:  59.28
+  English:  64.43
+
+Pass rate (>=60): 58.78%
+Top 10 averages: [97.36, 97.32, 94.97, 92.73, 91.36, 91.35, 90.98, 90.79, 90.2, 89.73]
