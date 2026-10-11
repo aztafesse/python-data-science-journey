@@ -1,0 +1,49 @@
+==================================================
+SALES PERFORMANCE REPORT
+==================================================
+
+Stores: 500
+Regions: 4
+Products: 5
+Months: 12
+
+Total Sales: $3,162,561,200
+
+Sales by regions:
+  North : $    780,098,800
+  South : $    819,526,400
+  East  : $    768,356,300
+  West  : $    794,579,700
+
+Product Performance:
+  Sports      :  $    636,693,200
+  Groceries   :  $    635,436,600
+  Electronics :  $    633,113,000
+  Home        :  $    630,969,800
+  Clothing    :  $    626,348,600
+
+Top 5 Stores:
+  Store 351: $     11,033,600
+  Store 435: $     11,015,800
+  Store  7: $     10,956,400
+  Store 390: $     10,382,700
+  Store 71: $     10,372,100
+
+Monthly Totals
+  Month  1: $ 210,450,400
+  Month  2: $ 199,459,000
+  Month  3: $ 237,470,900
+  Month  4: $ 251,135,500
+  Month  5: $ 264,165,500
+  Month  6: $ 254,235,400
+  Month  7: $ 242,784,200
+  Month  8: $ 255,909,000
+  Month  9: $ 270,471,600
+  Month 10: $ 285,730,000
+  Month 11: $ 324,509,900
+  Month 12: $ 366,239,800
+
+Promotion Impact:
+  Before: $3,162,561,200
+  After: $3,184,426,880
+  Increase: $21,865,680 (0.69%)

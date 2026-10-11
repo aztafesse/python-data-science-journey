@@ -15,6 +15,12 @@ My structured learning path from Python basics to data science
 
 ### Week 2 - NumPy
 - Day 8: NumPy fundamentals 9arrays, vectorization, masking)
+- Day 9: Indexing, slicing, fancy indexing
+- Day 10: Broadcasting & vectorized operations
+- Day 11: Aggregations & statistical operations
+- Day 12: Random numbers & simulations
+- Day 13: Project - Student Performance Analysis
+- Day 14: Project - Sales Performance Simulator
 
 ## Tools
 - Python 3
