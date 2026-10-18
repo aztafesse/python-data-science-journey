@@ -122,3 +122,4 @@ orders = pd.DataFrame({
 merged = pd.merge(customers, orders, on="customer_id", how="left", indicator=True)
 no_orders = merged[merged["_merge"]=="left_only"]
 print(no_orders[["customer_id", "name"]])
+
