@@ -1,0 +1,11 @@
+SUPERMARKET SALES - Q1 2019
+========================================
+
+Total transactions: 1000
+Total revenue: $322,967
+Average transaction: 322.97
+Average rating  : 6.97/10
+
+Top product: Food And Beverages
+Top branch: C
+Top day: Saturday
